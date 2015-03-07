@@ -1,0 +1,48 @@
+title: "Pascal de Vink"
+description: "My blog"
+logo: spresso-logo.png
+
+# Your site's domain. E.g: http://yoursite.com
+url: ""
+
+# Comments in posts
+comments:
+    enabled: true
+    disqus_shortname:
+
+# Information about author
+author:
+    name: Pascal de Vink
+
+    # Social networks
+    twitter: pascaldevink
+    github: https://github.com/pascaldevink
+    bitbucket:
+    facebook:
+    linkedin:
+    gplus:
+    youtube:
+
+# RSS feed
+feed:
+    max_item: 10
+
+# Facebook Open Graph
+open_graph:
+    locale: en_US
+
+# Code highlight for <pre> and <code> tags
+# Powered by http://highlightjs.org/
+code_highlight: true
+
+# Site validation
+google_verify:
+bing_verify:
+
+# Page menus
+top_menu:
+    - { name: Home, url: / }
+
+paginate: 5
+
+exclude: ['README.md', 'LICENSE','composer.json']
