@@ -5,10 +5,14 @@ logo: spresso-logo.png
 # Your site's domain. E.g: http://yoursite.com
 url: ""
 
+# Default header image
+header_img:
+  url: "img/home-bg.jpg"
+
 # Comments in posts
 comments:
     enabled: true
-    disqus_shortname:
+    disqus_shortname: pascaldevink
 
 # Information about author
 author:
